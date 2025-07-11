@@ -2,7 +2,7 @@
 
 This project is a Convolutional Neural Network (CNN) built using TensorFlow/Keras for recognizing **American Sign Language (ASL)** hand signs from images.
 
-It trains on 36 classes representing ASL alphabet letters (A–Z) and some additional symbols.
+It trains on 36 classes representing ASL alphabet letters. (A–Z)
 
 
 
