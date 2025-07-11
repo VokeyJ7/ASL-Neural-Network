@@ -4,7 +4,7 @@ This project is a Convolutional Neural Network (CNN) built using TensorFlow/Kera
 
 It trains on 36 classes representing ASL alphabet letters (A–Z) and some additional symbols.
 
----
+
 
 ## Features
 
@@ -13,7 +13,7 @@ It trains on 36 classes representing ASL alphabet letters (A–Z) and some addit
 - Input shape: `224x224x3` RGB images
 - 36-class multi-class classification using `softmax`
 
----
+
 
 ## Model Architecture
 
